@@ -49,7 +49,7 @@ display: table;
 
 /*start header*/
 .header{
-    background: url('../headerbackground.jpg');
+    background: url('headerbackground.jpg');
     -webkit-background-size:cover;
    -moz-background-size:cover;
     -o-background-size:cover;
@@ -174,7 +174,7 @@ margin-left: 10px;
 /* start subscribe*/
 .subscribe{
     margin-top: 50px;
-    background: url('../subscribeback.jpg');
+    background: url('subscribeback.jpg');
     -webkit-background-size:cover;
     -moz-background-size:cover;
      -o-background-size:cover;
@@ -303,7 +303,7 @@ overflow: hidden;
 /*end ourwork*/
 /*start tesimonials*/
 .tesim{
-    background: url('..testimback.jpg');
+    background: url('testimback.jpg');
     -webkit-background-size:cover;
     -moz-background-size:cover;
      -o-background-size:cover;
@@ -411,7 +411,7 @@ right: 0;
 /*start contact*/
 .contact{
     color: white;
-    background: url('../contactbackground.jpg');
+    background: url('contactbackground.jpg');
     -webkit-background-size:cover;
     -moz-background-size:cover;
      -o-background-size:cover;
